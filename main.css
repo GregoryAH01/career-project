@@ -1,0 +1,57 @@
+p {
+	color: white;
+}
+
+h1 {
+	color: white;
+}
+
+h3 {
+	color: white;
+}
+
+#backdrop {
+	background-color: rgb(5,8,20);
+}
+
+#home {
+	text-align: center;
+	text-indent: 30%;
+}
+
+#what_center {
+	color: white;
+}
+
+
+.Cyber {
+	text-align: center;
+	text-decoration: underline;
+	color: white;
+}
+
+.Cyber_Answer {
+	text-align: center;
+	color: white;
+}
+
+
+#centerpg1 {
+	text-align: center;
+	
+}
+
+
+#lockheed {
+	width: 87%;
+	height: 100%;
+}
+
+#north {
+	width:86%;
+	height:55%;
+}
+
+#cisco {
+	width: 85%;
+}
